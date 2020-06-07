@@ -1,0 +1,879 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"bac",
+				"background-repeat\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"strto",
+				"strtotime〔function〕"
+			],
+			[
+				"file",
+				"file_exists〔function〕"
+			],
+			[
+				"func",
+				"function_exists〔function〕"
+			],
+			[
+				"Date",
+				"DateTime〔class〕"
+			],
+			[
+				"date_",
+				"date_create_from_format〔function〕"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"clas",
+				"class_exists"
+			],
+			[
+				"$a",
+				"$ap_12〔variable〕"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"product",
+				"product_brand"
+			],
+			[
+				"inc",
+				"incl\tinclude …"
+			],
+			[
+				"imp",
+				"implode〔function〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"regis",
+				"AppRegistry.registerComponent"
+			],
+			[
+				"mysqli_re",
+				"mysqli_real_escape_string〔function〕"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"str_re",
+				"str_replace〔function〕"
+			],
+			[
+				"str",
+				"string_to"
+			],
+			[
+				"string",
+				"$string_to〔variable〕"
+			],
+			[
+				"des",
+				"destination_id"
+			],
+			[
+				"utf8",
+				"utf8_encode"
+			],
+			[
+				"url",
+				"urlencode〔function〕"
+			],
+			[
+				"co",
+				"country"
+			],
+			[
+				"No",
+				"Northern"
+			],
+			[
+				"DBP",
+				"DB_PORT"
+			],
+			[
+				"preg",
+				"preg_replace〔function〕"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"is_n",
+				"is_numeric"
+			],
+			[
+				"array_",
+				"array_shift"
+			],
+			[
+				"array_p",
+				"array_pop"
+			],
+			[
+				"get_",
+				"get_links"
+			],
+			[
+				"mb_s",
+				"mb_strlen"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"j",
+				"json_decode"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"this",
+				"this_click〔function〕"
+			],
+			[
+				"ch",
+				"choice"
+			],
+			[
+				"check",
+				"checked\tAttr"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"mb",
+				"mb_substr"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"dta",
+				"data-med"
+			],
+			[
+				"sin",
+				"$single〔variable〕"
+			],
+			[
+				"_S",
+				"$_SERVER〔variable〕"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"fil",
+				"file_name"
+			],
+			[
+				"fi",
+				"file_name"
+			],
+			[
+				"_P",
+				"$_POST〔variable〕"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"is_nu",
+				"is_numeric〔function〕"
+			],
+			[
+				"incl",
+				"incl1\tinclude_once …"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"is",
+				"is-tugo"
+			],
+			[
+				"is-s",
+				"is-square"
+			],
+			[
+				"is-q",
+				"is-square"
+			],
+			[
+				"ph",
+				"photoswipe"
+			],
+			[
+				"bas",
+				"base64_decode"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"strp",
+				"strpos〔function〕"
+			],
+			[
+				"data",
+				"dataObj〔variable〕"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ses",
+				"session_start〔function〕"
+			],
+			[
+				"datec",
+				"date_create_from_format"
+			],
+			[
+				"date_set",
+				"date_timezone_set〔function〕"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"Zal",
+				"ZaloLink〔class〕"
+			],
+			[
+				"sta",
+				"static〔keyword〕"
+			],
+			[
+				"number",
+				"number_format〔function〕"
+			],
+			[
+				"is_",
+				"is_object〔function〕"
+			],
+			[
+				"thread",
+				"thread_id"
+			],
+			[
+				"ticket",
+				"ticket_id"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"pay",
+				"payment_note"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 239.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ngin",
+				"Set Syntax: nginx"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"apac",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"apa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"docker",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"config",
+				"Set Syntax: Git Config"
+			],
+			[
+				"rsy",
+				"rsync ssh: Initialize settings"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"diff",
+				"Diffy Compare"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"react",
+				"Set Syntax: TypeScriptReact"
+			],
+			[
+				"apache",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"lo",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"num",
+				"InsertNums - No Preview"
+			],
+			[
+				"ins",
+				"Insert Nums"
+			],
+			[
+				"lor",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"mini",
+				"Minify Javascript/CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"conf",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"log",
+				"Set Syntax: Log Highlight"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pass",
+				"Generate long password"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"long",
+				"Generate long password"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"nginx",
+				"Set Syntax: nginx"
+			],
+			[
+				"dock",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"lgo",
+				"Set Syntax: Logfile"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 287.0,
+		"history":
+		[
+			"kill",
+			"quit",
+			"exit"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Data/dev/cosmos/laravel-test"
+	],
+	"file_history":
+	[
+		"/Volumes/Data/dev/freelance/Lam Da/Aruba - Landing pages/2020-04-04/source/index.html",
+		"/Users/cosmos/Downloads/Campus, Core and Data Center switches _ Aruba.html",
+		"/Users/cosmos/Downloads/Switch Forward _ Aruba.html",
+		"/Volumes/Data/dev/freelance/Lam Da/Aruba - EDM/2020-05-26/source-fpt/index.html",
+		"/Volumes/Data/dev/freelance/Lam Da/Aruba - EDM/2020-04-27/source/index.html",
+		"/Volumes/Data/dev/freelance/Lam Da/Aruba - EDM/2020-05-26/source/index.html",
+		"/Volumes/Data/dev/freelance/Lam Da/Aruba - EDM/2020-04-24 - 04/source/index.html",
+		"/Volumes/Data/dev/freelance/Lam Da/aruba-live-theme/support-template.php",
+		"/Volumes/Data/dev/freelance/Lam Da/aruba-live-theme/partials/header.php",
+		"/Volumes/Data/dev/freelance/Lam Da/aruba-live-theme/page.php",
+		"/Volumes/Data/dev/freelance/Lam Da/aruba-live-theme/newstyle.css",
+		"/Volumes/Data/dev/freelance/Lam Da/aruba-live-theme/tailieu-template.php",
+		"/private/var/folders/m5/qkh30tsj68jgfgbw2dctckxr0000gp/T/b0dafb1a-3b41-4c1c-865f-dd1d7519763f/home/arubains/public_html/wp-content/themes/nt-advent-child/newstyle.css",
+		"/Volumes/Data/dev/freelance/Lam Da/Aruba - EDM/2020-05-21/source/index.html",
+		"/Volumes/Data/dev/freelance/Lam Da/Aruba - EDM/2020-05-21/source/index-no-logo.html",
+		"/Volumes/Data/dev/freelance/Lam Da/Aruba - EDM/2020-05-21/source/EliteLogo.png",
+		"/Volumes/Data/dev/freelance/Lam Da/Aruba - EDM/2020-04-24 -- 8-5/source/index.html",
+		"/Volumes/Data/dev/freelance/Lam Da/Aruba - EDM/2020-04-24 -- 8-5/source/index-no-logo.html",
+		"/Volumes/Data/dev/freelance/Lam Da/Aruba - Landing pages/2020-04-04/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - EDM/2020-05-12/source/index-no-logo.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - Landing pages/2020-04-04/source/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - EDM/2020-04-24 -- 8-5/source/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - Pages/Solution-Home-Page FPT/Mobirise/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - Pages/Solution-Home-Page FPT/Mobirise/custom-style.css",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - Pages/Solution-Home-Page/Mobirise/custom-style.css",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - Pages/Solution-Home-Page/Mobirise/assets/mobirise/css/mbr-additional.css",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - Pages/Solution-Home-Page/Mobirise/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - EDM/2020-04-24 -- 8-5/source/index-no-logo.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - EDM/2020-04-27/source/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - EDM/2020-04-24 - 04/source/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - EDM/2020-04-18-2/source/index.html",
+		"/private/var/folders/m5/qkh30tsj68jgfgbw2dctckxr0000gp/T/fz3temp-2/ost-config.php",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/aruba-instanton-plugins/contact-form-7-custom-message/index.php",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/aruba-solutions-plugins/contact-form-7-custom-message/index.php",
+		"/Volumes/Data/Dropbox (Personal)/Backup/SidecarCore",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - Landing pages/2020-04-15/mobirise/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - EDM/2020-04-17/source - 2/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - EDM/2020-04-17/source copy/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - EDM/2020-04-18-1/source/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - EDM/2020-04-18-1/EM_4B.msg",
+		"/private/var/folders/m5/qkh30tsj68jgfgbw2dctckxr0000gp/T/b0dafb1a-3b41-4c1c-865f-dd1d7519763f/home/arubains/arubasolution.vn/webinar/register/test.php",
+		"/Users/cosmos/Downloads/bulma-0.8.2/index.html",
+		"/Users/cosmos/Downloads/bootstrap-4.4.1-dist/css/bootstrap.css",
+		"/Users/cosmos/Downloads/bootstrap-4.4.1-dist/css/bootstrap-reboot.css",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/aruba-solutions-theme/partials/header.php",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - Pages/01/source/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/aruba-solutions-theme/partials/googletags.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/tools/svg/index.html",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/gitbook/.gitignore",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/gitbook/_config.yml",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/gitbook/Gemfile",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/gitbook/_plugins/post.rb",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/gitbook/_posts/2020-04-16-test-ting-vit.md",
+		"/Users/cosmos/.zshrc",
+		"/Users/cosmos/Downloads/icon/pro.min.css",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - EDM/2020-04-08/source/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - EDM/2020-04-11/design/Aruba-Instanton/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/aruba-instanton-plugins/widget-to-show-posts-in-current-category/widget-to-display-posts-from-current-category.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/freelance/lam-da/eDM/new/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - EDM/2020-03-31/source/index.html",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/leadform/laravel-auth/resources/views/sitekey/edit.blade.php",
+		"/Users/cosmos/Downloads/if-so/admin/partials/ifso_geo_page_display.php",
+		"/Users/cosmos/Downloads/if-so/services/geolocation-service/geolocation-service.class.php",
+		"/Users/cosmos/Downloads/if-so/public/services/triggers-service/triggers/impl/geolocation-trigger.class.php",
+		"/Users/cosmos/Downloads/if-so/public/services/triggers-service/triggers-service.class.php",
+		"/Users/cosmos/Downloads/if-so/public/services/triggers-service/handlers/impl/license-validation-handler.class.php",
+		"/Users/cosmos/Downloads/if-so/services/license-service/license-service.class.php",
+		"/private/var/folders/m5/qkh30tsj68jgfgbw2dctckxr0000gp/T/b0dafb1a-3b41-4c1c-865f-dd1d7519763f/home/arubains/lead.arubasolution.vn/app/Http/Middleware/CheckSiteKey.php",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - Landing pages/2020-03-31/source/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - Landing pages/2020-03-31/functions.php",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - Landing pages/2020-03-31/source/youtube.js",
+		"/Users/cosmos/Downloads/index.html",
+		"/Users/cosmos/Downloads/4/SEATH/Aruba SEATH Webinar 2020.html",
+		"/private/var/folders/m5/qkh30tsj68jgfgbw2dctckxr0000gp/T/b0dafb1a-3b41-4c1c-865f-dd1d7519763f/home/arubains/arubasolution.vn/lead/config.php",
+		"/private/var/folders/m5/qkh30tsj68jgfgbw2dctckxr0000gp/T/b0dafb1a-3b41-4c1c-865f-dd1d7519763f/home/arubains/arubasolution.vn/aruba-rap/index.html",
+		"/private/var/folders/m5/qkh30tsj68jgfgbw2dctckxr0000gp/T/b0dafb1a-3b41-4c1c-865f-dd1d7519763f/home/arubains/arubasolution.vn/lead/data.php",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - Pages/01/source/assets/theme/css/custom-style.css",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - Pages/01/source/assets/mobirise/css/mbr-additional.css",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/2019-04-16/soft.htm",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/study/laravel/blog/laradock/mysql/docker-entrypoint-initdb.d/createdb.sql",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/study/laravel/blog/laradock/.env",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/study/laravel/blog/laradock/nginx/sites/laravel.conf.example",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/study/laravel/blog/laradock/nginx/sites/default.conf",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/study/laravel/blog/config/app.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/study/laravel/blog/.env",
+		"/Users/cosmos/Downloads/wp-file-upload/lib/wfu_constants.php",
+		"/Users/cosmos/Downloads/wp-file-upload/lib/wfu_functions.php",
+		"/Users/cosmos/Downloads/Resume CV 23/Helps.txt",
+		"/Users/cosmos/Downloads/news_flash_gtk/meson.build",
+		"/Users/cosmos/Downloads/web/main.dart.js",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/aruba-live-theme/style.css",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/Aruba - Pages/01/source-2/index.html",
+		"/Volumes/Data/Dropbox (Personal)/Works/Freelancer/Lam Da/aruba-live-theme/newstyle.css",
+		"/Users/cosmos/Downloads/GoogleService-Info.plist",
+		"/private/var/folders/m5/qkh30tsj68jgfgbw2dctckxr0000gp/T/b0dafb1a-3b41-4c1c-865f-dd1d7519763f/home/arubains/public_html/wp-content/themes/nt-advent-child/indoor-template.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/stock/vndirect/cafef/index.php",
+		"/private/var/folders/m5/qkh30tsj68jgfgbw2dctckxr0000gp/T/b0dafb1a-3b41-4c1c-865f-dd1d7519763f/home/arubains/public_html/wp-content/themes/nt-advent-child/deskwall-template.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/study/test/index.php",
+		"/Users/cosmos/Downloads/TK3iWkUHHAIjg752GT8Gl-1PKw.woff2",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/study/test/xml.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/study/october/laradock/mysql/my.cnf",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/study/october/laradock/.env",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/study/october/config/app.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/cosmos/study/october/config/database.php",
+		"/Users/cosmos/Downloads/hoadon.inv",
+		"/private/var/folders/m5/qkh30tsj68jgfgbw2dctckxr0000gp/T/fz3temp-2/wp-config.php",
+		"/private/var/folders/m5/qkh30tsj68jgfgbw2dctckxr0000gp/T/b0dafb1a-3b41-4c1c-865f-dd1d7519763f/home/arubains/public_html/wp-config.php",
+		"/Users/cosmos/.Trash/wp-config.php 23-10-00-481.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/traveltour - placehold/demo1/images.html",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/themes/bookyourtravel-child/functions.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-config.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/themes/bookyourtravel/footer.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/laradock/mysql/my.cnf",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/themes/bookyourtravel-child/style.css",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/themes/bookyourtravel/js/tugo_script.js",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/themes/bookyourtravel/js/inquiry.js",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/themes/bookyourtravel/css/style.css",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/osticket/laradock/mysql/my.cnf",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/themes/bookyourtravel/single-tour.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/themes/bookyourtravel/sidebar-right-tour.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/themes/bookyourtravel/includes/plugins/widgets/widget-tugo-search-tour.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/themes/bookyourtravel/includes/theme_utils.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/themes/bookyourtravel/js/accommodations.js",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/themes/bookyourtravel/page-agoda-list.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/themes/bookyourtravel/header.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/laradock/.env",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/plugins/foogallery/includes/foopluginbase/classes/class-foo-plugin-base.php",
+		"/Volumes/Data/Dropbox (Personal)/dev/tugo/website/wp-content/plugins/foogallery/foogallery.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 437.0
+	},
+	"output.find_results":
+	{
+		"height": 265.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/PHP.sublime-build",
+	"project": "Laravel Test.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"DataRealtime",
+				"server-check/vendor/google/apiclient-services/src/Google/Service/Analytics/Resource/DataRealtime.php"
+			],
+			[
+				"logs/error.log",
+				"logs/error.log"
+			],
+			[
+				"thr",
+				"include/class.thread.php"
+			],
+			[
+				"note",
+				"include/class.note.php"
+			],
+			[
+				"scp",
+				"scp/js/scp.js"
+			],
+			[
+				"succ",
+				"include/staff/templates/ticket-status-success.tmpl.php"
+			],
+			[
+				"ajaxticket",
+				"include/ajax.tickets.php"
+			],
+			[
+				"ost-c",
+				"include/ost-config.php"
+			],
+			[
+				"tickimp",
+				"scp/ticket-import.php"
+			],
+			[
+				"bootphp",
+				"bootstrap.php"
+			],
+			[
+				"nav",
+				"include/class.nav.php"
+			],
+			[
+				"ostcss",
+				"scp/css/bootstrap.css"
+			],
+			[
+				"ost-con",
+				"include/ost-sampleconfig.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Sublime Projects/yugo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 695.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
