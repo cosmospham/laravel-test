@@ -8,7 +8,5 @@
     <a href="https://vapor.laravel.com">Vapor</a>
     <a href="https://github.com/laravel/laravel">GitHub</a>
 
-    <script type="text/javascript">
-        console.log(Math.random());
-    </script>
+    @livewire('script', [], key(rand()))
 </div>
